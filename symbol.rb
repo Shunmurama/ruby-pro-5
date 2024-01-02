@@ -49,5 +49,8 @@ end
 
 puts sss
 
-p '----------------------'
+puts '---------------------'
 
+currenceis = {japan: 'yen', us: 'dollar', india: 'rupee'}
+
+puts currenceis[:us]
